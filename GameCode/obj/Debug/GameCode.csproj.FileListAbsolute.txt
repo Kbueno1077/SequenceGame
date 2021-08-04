@@ -1,0 +1,6 @@
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\bin\Debug\GameCode.dll
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\bin\Debug\GameCode.pdb
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\obj\Debug\GameCode.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\obj\Debug\GameCode.dll
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\obj\Debug\GameCode.pdb
+C:\Users\kevin\source\repos\LucesWindForm\GameCode\obj\Debug\GameCode.csprojAssemblyReference.cache
