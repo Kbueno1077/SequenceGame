@@ -1,5 +1,7 @@
-# SequenceGame
-Juego de introducir la secuencia en el orden correcto con tabla de posiciones por usuario, C# con Windform.
+# SequenceGame 
+Pequeño juego de muestra e introducción a la programación en C# y Windoforms 2020
+
+Juego de introducir la secuencia en el orden correcto con tabla de posiciones por usuario
 Registre un usuario.
 
 LucesWindForm/bin/Debug/LucesWindForm.exe: ejecutable
