@@ -1,5 +1,5 @@
-# SequenceGame 
-Pequeño juego de muestra e introducción a la programación en C# y Windoforms 2020
+# SequenceGame 2020
+Pequeño juego de muestra e introducción a la programación en C# y Windforms 
 
 Juego de introducir la secuencia en el orden correcto con tabla de posiciones por usuario
 Registre un usuario.
